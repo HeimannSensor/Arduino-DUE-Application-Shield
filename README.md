@@ -1,3 +1,5 @@
+Hint: You will find the installation guide in the user_manual_ApplicationShieldArduino.pdf
+
 # Arduino-DUE-Application-Shield
 
 For thermal imaging and easy application of our arrays we designed an application board to read thermopile sensors with an Arduino board.
